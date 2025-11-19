@@ -34,29 +34,29 @@ EDCI 66400,Learning Environment Design,3,LDT Electives - Development,Development
 EDCI 52800,Human Performance Technology,3,LDT Electives - Workplace Learning,Workplace Learning elective.
 EDCI 57700,Strategic Assessment and Evaluation,3,LDT Electives - Workplace Learning,Workplace Learning elective.
 EDCI 63300,Instructional Design Project Management,3,LDT Electives - Workplace Learning,Workplace Learning elective.
-EDPS 55600,Introductory Statistics In Educational Research,3,Educational Research - Statistics,Choose one introductory statistics course.
-STAT 50100,Experimental Statistics I,3,Educational Research - Statistics,Choose one introductory statistics course.
-SOC 58000,a,4,,x
-SOC 58100,Social Research Methods,3,Educational Research - Statistics,Choose one introductory statistics course.
-SOC 58300,b,4,,x
-PSY 5000,c,4,,x
-PSY 60000,Statistical Inference,3,Educational Research - Statistics,Choose one introductory statistics course.
-PSY 68000,dd,4,,x
-COM 58200,e,4,,x
+EDPS 55600,Introductory Statistics In Educational Research,3,Educational Research - Intro,Choose one introductory statistics course.
+STAT 50100,Experimental Statistics I,3,Educational Research - Intro,Choose one introductory statistics course.
+SOC 58000,a,4,Educational Research - Intro,x
+SOC 58100,Social Research Methods,3,Educational Research - Intro,Choose one introductory statistics course.
+SOC 58300,b,4,Educational Research - Intro,x
+PSY 5000,c,4,Educational Research - Intro,x
+PSY 60000,Statistical Inference,3,Educational Research - Intro,Choose one introductory statistics course.
+PSY 68000,dd,4,Educational Research - Intro,x
+COM 58200,e,4,Educational Research - Intro,x
 EDCI 61500,Qualitative Research Methods in Education,3,Educational Research - Qualitative,Required qualitative methods course.
-SOC 68600,f,4,,x
-ANTH 60500,g,4,,x
-TECH 69700,hh,4,,x
-COM 58500,ii,4,,x
-EDPS 55700,Educational Measurement,3,Educational Research - Statistics,Advanced quantitative elective.
-EDCI 61600,Advanced Qualitative Research,3,Educational Research - Qualitative,Advanced qualitative elective.
-EDCI 684,jj,4,,x
-STAT 50200,kk,4,,x
-STAT 51200,Applied Regression Analysis,3,Educational Research - Statistics,Advanced quantitative elective.
-PSY 60100,ll,4,,x
-PSY 60500,mm,4,,x
-PSY 61000,nn,4,,x
-SOC 68000,oo,4,,x
-HDFS 62700,pp,4,,x
+SOC 68600,f,4,Educational Research - Qualitative,x
+ANTH 60500,g,4,Educational Research - Qualitative,x
+TECH 69700,hh,4,Educational Research - Qualitative,x
+COM 58500,ii,4,Educational Research - Qualitative,x
+EDPS 55700,Educational Measurement,3,Educational Research - Advanced,Advanced quantitative elective.
+EDCI 61600,Advanced Qualitative Research,3,Educational Research - Advanced,Advanced qualitative elective.
+EDCI 684,jj,4,Educational Research - Advanced,x
+STAT 50200,kk,4,Educational Research - Advanced,x
+STAT 51200,Applied Regression Analysis,3,Educational Research - Advanced,Advanced quantitative elective.
+PSY 60100,ll,4,Educational Research - Advanced,x
+PSY 60500,mm,4,Educational Research - Advanced,x
+PSY 61000,nn,4,Educational Research - Advanced,x
+SOC 68000,oo,4,Educational Research - Advanced,x
+HDFS 62700,pp,4,Educational Research - Advanced,x
 EDPS 63000,Research Procedures in Education,3,Educational Research - General,Required research seminar.
-EDCI 69900,Research PhD Thesis,3-6,Dissertation Research,Dissertation research.
+EDCI 69900,Research PhD Thesis,6-Mar,Dissertation Research,Dissertation research.
