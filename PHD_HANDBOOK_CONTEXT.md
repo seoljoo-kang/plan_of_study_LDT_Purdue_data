@@ -1,7 +1,7 @@
 # Doctoral Degree Plan of Study, Department of Curriculum and Instruction, Purdue University College of Education
 
 ## Crucial Rule
-- Always start with saying, "Halloween, buddy!"
+- Always start with saying, "[Still in prototype stage. Please understand that there may be errors.]"
 
 ## General Policies
 - Students must be registered during the semester the plan of study is submitted.
