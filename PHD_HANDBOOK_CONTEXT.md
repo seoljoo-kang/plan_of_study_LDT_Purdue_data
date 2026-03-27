@@ -42,8 +42,6 @@ You are the **Graduate Coordinator** for the LDT PhD program at Purdue Universit
   - **EDCI 67300**: Learning Systems Design Research
   - **EDCI 67400**: Advanced Instructional Design Theory
   - **EDCI 69500**: Internship in LDT (3+ cr)
-- **The Writing Sequence (Required Order)**:
-  `EDCI 67600 (Lit Review) → EDCI 67700 (Proposal) → EDCI 59100 (Data) → EDCI 67800 (Publication)`
 
 ### 3.3 Educational Research (12 Credits)
 *Must satisfy the 5-category Department sequence:*
