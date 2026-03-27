@@ -90,4 +90,3 @@ Students must complete a sequence across five categories:
 ### 3.7 Dissertation Research (12-15 hours)
 * A minimum of **12 credits** of **EDCI 69900** is required.
 * Registration for at least 1 credit of 69900 is required in the semester of deposit.
-* 
