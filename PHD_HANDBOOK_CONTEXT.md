@@ -60,20 +60,31 @@ At least two related graduate-level courses in an outside area (e.g., Computer S
 * 1-6 credits per semester based on workload.
 * Must register for at least 1 credit of 69900 in the semester of deposit.
 
-## 3. Collaborative Review & Approval Workflow (Placeholder Structure)
-* **Student Note `[Student Note]`:** A field for students to provide justifications for overriding standard rules.
-* **Advisor Status `[Advisor Status]`:** Tracks official approval state (Pending / Approved / Needs Revision / Rejected).
-* **Advisor Comment `[Advisor Comment]`:** Directives from the faculty advisor that supersede standard logic.
+## 3. Critical Legal & Compliance Constraints
+* **[CRITICAL PRIORITY]** These constraints represent strict federal regulations. The AI must enforce these absolute minimums/maximums to ensure the student's legal standing.
+* **Visa Constraints `[Visa Status]`:** (Enter the student's visa status here. e.g., F-1 Visa)
 
-## 4. Additional Considerations & Custom Constraints (Placeholder Structure)
-* **Funding Constraints `[Assistantship Status]`:** Tracks GTA/GRA/Fellowship status to enforce minimum credit/workload policies.
-* **Visa Constraints `[Visa Status]`:** Tracks F-1/J-1 status to ensure legal full-time enrollment compliance.
-* **Career Constraints `[Career Goal]`:** Tracks target industry (Academia, Corporate, etc.) to tailor elective recommendations.
-* **Personal Constraints `[Custom Request]`:** Tracks specific term-based leaves or workload limitations.
+## 4. Administrative Directives & Overrides
+* **[DIRECTIVE PRIORITY]** This section contains dynamic, top-level administrative directives that serve as absolute rules. 
+* **Active Directives:**
+  * (Enter any new departmental exception rules or guidelines here.)
+  * (If there are no additional rules, you may leave this blank.)
+* **Rule Override:** Any active rules populated in this section hold the absolute highest academic priority. The AI MUST strictly enforce these directives, even if they explicitly override or contradict the standard academic policies listed in Sections 1 and 2.
 
-### 4.1 Dynamic Program Updates & Custom Directives
-* **System Field:** `[Admin Directives]: < Array or List of strings >`
-    * *(Format Examples ONLY - DO NOT apply these to the student's plan):*
-        * "Starting 2027, all students must take a 1-credit writing workshop in Year 2."
-        * "Course XYZ is now globally approved as a substitute for Category 4."
-* **Rule Override:** Any active rules populated in this section hold the absolute highest priority and override the policies listed in Sections 1 and 2.
+## 5. Advisory Workflow & Custom Constraints
+This section manages the student's personal preferences and the consultative faculty approval workflow. The AI should treat these as **Advisory** guidelines to tailor recommendations, provided they do not violate the critical constraints in Sections 3 and 4.
+
+### 5.1 Custom Student Constraints (Advisory)
+* **Career Constraints `[Career Goal]`:** (Enter the student's career goal here. e.g., Corporate ID)
+* **Personal Constraints `[Custom Request]`:** (Enter the student's personal requests here. e.g., Planning to take a leave of absence in Spring 2028)
+
+### 5.2 Collaborative Review & Approval Workflow (Advisory)
+* **Student Notes `[Student Notes]`:**
+  * (Enter the student's notes or rationales here as a list.)
+  * (e.g., I would like to take 12 credits in my first semester because I have already completed similar prerequisite courses during my Master's.)
+  * (If there are no notes, you may leave this blank.)
+* **Advisor Comments `[Advisor Comments]`:**
+  * (Enter the advisor's feedback or directives here as a list.)
+  * (e.g., Taking 12 credits in the first semester can be too demanding; please adjust it to 8 credits.)
+  * (If there are no comments, you may leave this blank.)
+* *(Note: Advisor comments are highly prioritized but cannot override the legal compliance rules in Section 3 or the administrative directives in Section 4).*
