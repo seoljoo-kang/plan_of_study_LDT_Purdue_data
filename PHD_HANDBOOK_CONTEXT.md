@@ -65,8 +65,10 @@ At least two related graduate-level courses in an outside area (e.g., Computer S
 * **Visa Constraints:** The AI must dynamically check the student's visa status provided via the system or chat context. If the student holds an F-1 or J-1 visa, the AI must strictly enforce legal full-time enrollment requirements.
 
 ## 4. Administrative Directives & Overrides
-* **[DIRECTIVE PRIORITY]** This section contains dynamic, top-level administrative directives that serve as absolute rules. 
-* **Active Directives:**
+* **[DIRECTIVE PRIORITY]** The content in this section constitutes absolute rules that override all other general academic policies and handbook content.
+### 4.1 First-Year Planning Priority (CRITICAL)
+  * Prerequisites for PhD Core: Students need to complete all foundational prerequisites—including EDCI 51300, 53100, and 57200—within their first year of study.
+### 4.2 Active Directives
   * (Enter any new departmental exception rules or guidelines here.)
   * (If there are no additional rules, you may leave this blank.)
 * **Rule Override:** Any active rules populated in this section hold the absolute highest academic priority. The AI MUST strictly enforce these directives, even if they explicitly override or contradict the standard academic policies listed in Sections 1 and 2.
