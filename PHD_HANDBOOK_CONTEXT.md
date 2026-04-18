@@ -17,11 +17,11 @@
 * **EDCI 57200:** Learning Systems Design (or equivalent).
 * **EDCI 53100:** Learning Theories and Instructional Design (or equivalent).
 
-### 2.2 C&I Seminars [C&I Seminars] (2 credits)
+### 2.2 C&I Department Seminars [C&I Seminars] (2 credits)
 * **EDCI 62800:** C&I Doctoral Seminar I (Fall, 1 cr).
 * **EDCI 63800:** C&I Doctoral Seminar II (Spring, 1 cr).
 
-### 2.3 Core LDT Requirements [Core LDT Requirements] (24 credits)
+### 2.3 Core Ph.D. LDT Requirements [PhD LDT Requirements] (24 credits)
 * **EDCI 66000:** LDT Seminar (1 cr).
 * **EDCI 62700:** Critical Readings and Research in LDT (3 cr). 
   * *Cohort Rule:* Required for cohorts admitted Fall 2025 or later. Also fulfills Category 1 Educational Research requirement simultaneously.
