@@ -12,7 +12,7 @@
 
 ## 2. Curriculum Requirements (LDT PhD Concentration)
 
-### 2.1 Prerequisites [Prereq] (Up to 12 credits)
+### 2.1 Prerequisites [Prerequisites] (Up to 12 credits)
 * **EDCI 51300:** Intro to Learning Design and Technology.
 * **EDCI 57200:** Learning Systems Design (or equivalent).
 * **EDCI 53100:** Learning Theories and Instructional Design (or equivalent).
@@ -21,7 +21,7 @@
 * **EDCI 62800:** C&I Doctoral Seminar I (Fall, 1 cr).
 * **EDCI 63800:** C&I Doctoral Seminar II (Spring, 1 cr).
 
-### 2.3 Core Ph.D. LDT Requirements [PhD LDT Requirements] (24 credits)
+### 2.3 Core Ph.D. LDT Requirements [LDT Requirements] (24 credits)
 * **EDCI 66000:** LDT Seminar (1 cr).
 * **EDCI 62700:** Critical Readings and Research in LDT (3 cr). 
   * *Cohort Rule:* Required for cohorts admitted Fall 2025 or later. Also fulfills Category 1 Educational Research requirement simultaneously.
