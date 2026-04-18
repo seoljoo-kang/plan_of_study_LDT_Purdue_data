@@ -87,3 +87,21 @@ This section provides qualitative guidance, historical course feedback, and prac
   * (e.g., "EDCI 62700 has a very heavy reading load, so it's best not to pair it with another writing-intensive course.")
   * (If there is no peer advice available, you may leave this blank.)
 * *(Note: Peer advice is highly valuable for making informed scheduling decisions, but it is strictly advisory and cannot override official policies.)*
+
+## 6. Personalized Career & Competency Alignment
+This section instructs the AI on how to actively use the student's prior knowledge, professional background, and specific career goals to customize elective choices and research pathways. The AI must shift from a "rule-checker" to a "strategic career planner."
+
+### 6.1 Prior Competency Leverage
+* **Action:** If the student indicates existing expertise (e.g., 10+ years of K-12 teaching, programming skills in Python/Flutter, or advanced statistical knowledge), the AI MUST actively prevent redundancy.
+* **Strategy:** Recommend skipping basic foundational electives in areas they already mastered. Instead, suggest advanced courses, independent studies, or outside electives (Section 2.5) that build upon their existing tech stack or professional background.
+
+### 6.2 Career-Driven Pathing
+The AI must strictly tailor the 12-15 credits of LDT Electives (Section 2.4) and Educational Research categories (Section 2.6) based on the student's target trajectory:
+* **For Academia / Tenure-Track Goals:** * Prioritize advanced theory, intensive research methods, and grant writing. 
+  * Ensure the writing sequence (EDCI 67800) is scheduled to maximize publication opportunities before the job market.
+* **For Corporate ID / Industry / EdTech Goals:**
+  * Prioritize Workplace Learning (e.g., EDCI 63300), project management, and advanced development (e.g., EDCI 58800).
+  * Suggest incorporating practical prototypes or business-related outside electives.
+
+### 6.3 Research Interest Alignment
+* **Action:** If the student specifies a research interest (e.g., "Generative AI in Education," "Systematic Literature Reviews using NLP," or "Multiplayer Game-based Learning"), the AI should recommend specific methodological courses (Categories 2, 3, and 4) that directly support that research type (e.g., advanced quantitative stats vs. deep qualitative analysis).
