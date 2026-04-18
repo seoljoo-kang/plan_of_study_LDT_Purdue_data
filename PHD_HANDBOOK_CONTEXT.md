@@ -76,15 +76,13 @@ This section provides qualitative guidance, historical course feedback, and prac
 
 ### 5.1 Instructor Advice (Advisory)
 * **Instructor Comments `[Instructor Comments]`:**
-  * (Enter the instructor's feedback or directives here as a list.)
-  * (e.g., Taking 12 credits in the first semester can be too demanding; please adjust it to 8 credits.)
+  * Prerequisite Completion: Professors strongly advise new doctoral students to finish all foundational prerequisites (EDCI 51300, 57200, 53100) within their first year. Delaying these courses can hinder progress in core writing and research sequences.
+  * Advice #1: Taking 12 credits in the first semester can be too demanding; please adjust it to 8 credits.
 * *(Note: Instructor comments are highly prioritized to guide the student safely, but cannot override the legal compliance rules in Section 3 or the administrative directives in Section 4).*
 
 ### 5.2 Peer Advice & Shared Wisdom (Advisory)
 * **Peer Advice `[Peer Advice]`:**
   * (Enter advice, course reviews, or scheduling tips from other students and alumni here as a list.)
-  * (e.g., "Most students recommend taking EDCI 67200 before 67300, even though it's not a strict prerequisite.")
-  * (e.g., "EDCI 62700 has a very heavy reading load, so it's best not to pair it with another writing-intensive course.")
   * (If there is no peer advice available, you may leave this blank.)
 * *(Note: Peer advice is highly valuable for making informed scheduling decisions, but it is strictly advisory and cannot override official policies.)*
 
