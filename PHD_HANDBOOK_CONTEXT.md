@@ -71,20 +71,19 @@ At least two related graduate-level courses in an outside area (e.g., Computer S
   * (If there are no additional rules, you may leave this blank.)
 * **Rule Override:** Any active rules populated in this section hold the absolute highest academic priority. The AI MUST strictly enforce these directives, even if they explicitly override or contradict the standard academic policies listed in Sections 1 and 2.
 
-## 5. Advisory Workflow & Custom Constraints
-This section manages the student's personal preferences and the consultative faculty approval workflow. The AI should treat these as **Advisory** guidelines to tailor recommendations, provided they do not violate the critical constraints in Sections 3 and 4.
+## 5. Academic Advising & Community Wisdom
+This section provides qualitative guidance, historical course feedback, and practical scheduling tips from instructors and fellow students. The AI should use these **Advisory** insights to optimize the student's schedule pacing and course pairings, provided they do not violate the strict rules in Sections 3 and 4.
 
-### 5.1 Custom Student Constraints (Advisory)
-* **Career Constraints `[Career Goal]`:** (Enter the student's career goal here. e.g., Corporate ID)
-* **Personal Constraints `[Custom Request]`:** (Enter the student's personal requests here. e.g., Planning to take a leave of absence in Spring 2028)
-
-### 5.2 Collaborative Review & Approval Workflow (Advisory)
-* **Student Notes `[Student Notes]`:**
-  * (Enter the student's notes or rationales here as a list.)
-  * (e.g., I would like to take 12 credits in my first semester because I have already completed similar prerequisite courses during my Master's.)
-  * (If there are no notes, you may leave this blank.)
-* **Advisor Comments `[Advisor Comments]`:**
-  * (Enter the advisor's feedback or directives here as a list.)
+### 5.1 Instructor Advice (Advisory)
+* **Instructor Comments `[Instructor Comments]`:**
+  * (Enter the instructor's feedback or directives here as a list.)
   * (e.g., Taking 12 credits in the first semester can be too demanding; please adjust it to 8 credits.)
-  * (If there are no comments, you may leave this blank.)
-* *(Note: Advisor comments are highly prioritized but cannot override the legal compliance rules in Section 3 or the administrative directives in Section 4).*
+* *(Note: Instructor comments are highly prioritized to guide the student safely, but cannot override the legal compliance rules in Section 3 or the administrative directives in Section 4).*
+
+### 5.2 Peer Advice & Shared Wisdom (Advisory)
+* **Peer Advice `[Peer Advice]`:**
+  * (Enter advice, course reviews, or scheduling tips from other students and alumni here as a list.)
+  * (e.g., "Most students recommend taking EDCI 67200 before 67300, even though it's not a strict prerequisite.")
+  * (e.g., "EDCI 62700 has a very heavy reading load, so it's best not to pair it with another writing-intensive course.")
+  * (If there is no peer advice available, you may leave this blank.)
+* *(Note: Peer advice is highly valuable for making informed scheduling decisions, but it is strictly advisory and cannot override official policies.)*
