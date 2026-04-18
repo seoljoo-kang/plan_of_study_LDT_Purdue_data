@@ -12,16 +12,16 @@
 
 ## 2. Curriculum Requirements (LDT PhD Concentration)
 
-### 2.1 Prerequisites (Up to 12 credits)
+### 2.1 Prerequisites [Prereq] (Up to 12 credits)
 * **EDCI 51300:** Intro to Learning Design and Technology.
 * **EDCI 57200:** Learning Systems Design (or equivalent).
 * **EDCI 53100:** Learning Theories and Instructional Design (or equivalent).
 
-### 2.2 C&I Seminars (2 credits)
+### 2.2 C&I Seminars [C&I Seminars] (2 credits)
 * **EDCI 62800:** C&I Doctoral Seminar I (Fall, 1 cr).
 * **EDCI 63800:** C&I Doctoral Seminar II (Spring, 1 cr).
 
-### 2.3 Core LDT Requirements (24 credits)
+### 2.3 Core LDT Requirements [Core LDT Requirements] (24 credits)
 * **EDCI 66000:** LDT Seminar (1 cr).
 * **EDCI 62700:** Critical Readings and Research in LDT (3 cr). 
   * *Cohort Rule:* Required for cohorts admitted Fall 2025 or later. Also fulfills Category 1 Educational Research requirement simultaneously.
@@ -36,17 +36,17 @@
     * **EDCI 67400:** Advanced Instructional Design Theory (3 cr).
 * **EDCI 69500:** Internship in LDT (3+ cr). Generally in summer.
 
-### 2.4 LDT Electives (12-15 credits)
+### 2.4 LDT Electives [LDT Electives] (12-15 credits)
 Construct a cohesive program. Special topics (EDCI 627/591) count here.
 * **Foundations:** e.g., EDCI 56500, EDPS 53000, EDCI 58500, EDPS 53300, 53100.
 * **Design:** e.g., EDCI 55201, 56000, 55600, 56900, 62700, 67500.
 * **Development:** e.g., EDCI 56400, 56600, 57500, 58800, 66400.
 * **Workplace Learning:** e.g., EDCI 52800, 57700, 63300.
 
-### 2.5 Outside Electives (6 credits)
+### 2.5 Outside Electives [Outside Electives] (6 credits)
 At least two related graduate-level courses in an outside area (e.g., Computer Science, Psychology).
 
-### 2.6 Educational Research (12 credits)
+### 2.6 Educational Research [Edu Research] (12 credits)
 * **Category 1 (Intro):** EDPS 53300. (LDT Substitute: EDCI 62700).
 * **Category 2 (Qualitative):** EDCI 61500.
 * **Category 3 (Statistics):** Choose one: EDPS 55600, STAT 50100, STAT 51100, PSY 60000, SOC 58100.
@@ -55,7 +55,7 @@ At least two related graduate-level courses in an outside area (e.g., Computer S
     * Quantitative: EDPS 55700, STAT 50200/51200, PSY 60100.
 * **Category 5 (Seminar):** EDPS 63000. (LDT Substitute: EDCI 59100, Seminar for Three Paper Dissertation).
 
-### 2.7 Dissertation Research (12-15 credits)
+### 2.7 Dissertation Research [Dissertation] (12-15 credits)
 * Minimum 12 credits of EDCI 69900.
 * 1-6 credits per semester based on workload.
 * Must register for at least 1 credit of 69900 in the semester of deposit.
