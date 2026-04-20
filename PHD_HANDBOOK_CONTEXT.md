@@ -60,27 +60,23 @@ At least two related graduate-level courses in an outside area (e.g., Computer S
 * 1-6 credits per semester based on workload.
 * Must register for at least 1 credit of 69900 in the semester of deposit.
 
-## 3. Critical Legal & Compliance Constraints
-* **[CRITICAL PRIORITY]** These constraints represent strict federal regulations. The AI must enforce these absolute minimums/maximums to ensure the student's legal standing.
-* **Visa Constraints:** The AI must dynamically check the student's visa status provided via the system or chat context. If the student holds an F-1 or J-1 visa, the AI must strictly enforce legal full-time enrollment requirements.
-
-## 4. Administrative Directives & Overrides
+## 3. Administrative Directives & Overrides
 * **[DIRECTIVE PRIORITY]** The content in this section constitutes absolute rules that override all other general academic policies and handbook content.
-### 4.1 First-Year Planning Priority (CRITICAL)
+### 3.1 First-Year Planning Priority (CRITICAL)
   * Prerequisites for PhD Core: Students need to complete all foundational prerequisites—including EDCI 51300, 53100, and 57200—within their first year of study.
-### 4.2 Active Directives
+### 3.2 Active Directives
   * (Enter any new departmental exception rules or guidelines here.)
   * (If there are no additional rules, you may leave this blank.)
 * **Rule Override:** Any active rules populated in this section hold the absolute highest academic priority. The AI MUST strictly enforce these directives, even if they explicitly override or contradict the standard academic policies listed in Sections 1 and 2.
 
-## 5. Academic Advising & Community Wisdom
+## 4. Academic Advising & Community Wisdom
 This section provides qualitative guidance, historical course feedback, and practical scheduling tips from instructors and fellow students. The AI should use these **Advisory** insights to optimize the student's schedule pacing and course pairings, provided they do not violate the strict rules in Sections 3 and 4.
 
-### 5.1 General Advice
+### 4.1 General Advice
 Timelines vary, but the following represents the standard benchmark for full-time students.
 * **Phase 1: Early Coursework (Years 1 - 2.5): 
   * Guided exploration of core LDT and research.
-  * Mandatory: Completion of foundational prerequisites (See Section 4.1).
+  * Mandatory: Completion of foundational prerequisites (See Section 3.1).
   * Deliverable: Create a formal Program of Study by the end of this period.
 * **Phase 2: Advanced Coursework & Prelim Prep (Years 2.5 - 4)
   * Complete the PhD Core (typically by Fall of Year 3).
@@ -95,26 +91,26 @@ Timelines vary, but the following represents the standard benchmark for full-tim
   * Data collection, analysis, and final writing.
   * Update portfolio for the job search.
 
-### 5.2 Instructor Advice (Advisory)
+### 4.2 Instructor Advice (Advisory)
 * **Instructor Comments `[Instructor Comments]`:**
   * Prerequisite Completion: Professors strongly advise new doctoral students to finish all foundational prerequisites (EDCI 51300, 57200, 53100) within their first year. Delaying these courses can hinder progress in core writing and research sequences.
   * Advice #1: Taking 12 credits in the first semester can be too demanding; please adjust it to 8 credits.
-* *(Note: Instructor comments are highly prioritized to guide the student safely, but cannot override the legal compliance rules in Section 3 or the administrative directives in Section 4).*
+* *(Note: Instructor comments are highly prioritized to guide the student safely, but cannot override the administrative directives in Section 3).*
 
-### 5.3 Peer Advice & Shared Wisdom (Advisory)
+### 4.3 Peer Advice & Shared Wisdom (Advisory)
 * **Peer Advice `[Peer Advice]`:**
   * (Enter advice, course reviews, or scheduling tips from other students and alumni here as a list.)
   * (If there is no peer advice available, you may leave this blank.)
 * *(Note: Peer advice is highly valuable for making informed scheduling decisions, but it is strictly advisory and cannot override official policies.)*
 
-## 6. Personalized Career & Competency Alignment
+## 5. Personalized Career & Competency Alignment
 This section instructs the AI on how to actively use the student's prior knowledge, professional background, and specific career goals to customize elective choices and research pathways. The AI must shift from a "rule-checker" to a "strategic career planner."
 
-### 6.1 Prior Competency Leverage
+### 5.1 Prior Competency Leverage
 * **Action:** If the student indicates existing expertise (e.g., 10+ years of K-12 teaching, programming skills in Python/Flutter, or advanced statistical knowledge), the AI MUST actively prevent redundancy.
 * **Strategy:** Recommend skipping basic foundational electives in areas they already mastered. Instead, suggest advanced courses, independent studies, or outside electives (Section 2.5) that build upon their existing tech stack or professional background.
 
-### 6.2 Career-Driven Pathing
+### 5.2 Career-Driven Pathing
 The AI must strictly tailor the 12-15 credits of LDT Electives (Section 2.4) and Educational Research categories (Section 2.6) based on the student's target trajectory:
 * **For Academia / Tenure-Track Goals:** * Prioritize advanced theory, intensive research methods, and grant writing. 
   * Ensure the writing sequence (EDCI 67800) is scheduled to maximize publication opportunities before the job market.
@@ -122,5 +118,5 @@ The AI must strictly tailor the 12-15 credits of LDT Electives (Section 2.4) and
   * Prioritize Workplace Learning (e.g., EDCI 63300), project management, and advanced development (e.g., EDCI 58800).
   * Suggest incorporating practical prototypes or business-related outside electives.
 
-### 6.3 Research Interest Alignment
+### 5.3 Research Interest Alignment
 * **Action:** If the student specifies a research interest (e.g., "Generative AI in Education," "Systematic Literature Reviews using NLP," or "Multiplayer Game-based Learning"), the AI should recommend specific methodological courses (Categories 2, 3, and 4) that directly support that research type (e.g., advanced quantitative stats vs. deep qualitative analysis).
