@@ -76,13 +76,32 @@ At least two related graduate-level courses in an outside area (e.g., Computer S
 ## 5. Academic Advising & Community Wisdom
 This section provides qualitative guidance, historical course feedback, and practical scheduling tips from instructors and fellow students. The AI should use these **Advisory** insights to optimize the student's schedule pacing and course pairings, provided they do not violate the strict rules in Sections 3 and 4.
 
-### 5.1 Instructor Advice (Advisory)
+### 5.1 General Advice
+Timelines vary, but the following represents the standard benchmark for full-time students.
+* **Phase 1: Early Coursework (Years 1 - 2.5): 
+  * Guided exploration of core LDT and research.
+  * Mandatory: Completion of foundational prerequisites (See Section 4.1).
+  * Deliverable: Create a formal Program of Study by the end of this period.
+* **Phase 2: Advanced Coursework & Prelim Prep (Years 2.5 - 4)
+  * Complete the PhD Core (typically by Fall of Year 3).
+  * Complete required internship and specialized electives.
+  * Prepare for preliminary qualifying exams ("prelims/quals").
+* **Phase 3: Preliminary Examination (Typically Year 4)
+  * Completion of the required Portfolio (serves as one of three prelim deliverables).
+  * Majority of coursework must be finished.
+* **Phase 4: Dissertation Proposal (Typically Year 4/5)
+  * Development of the first three chapters of the dissertation.
+* **Phase 5: Dissertation & Defense (Typically Year 5/6)
+  * Data collection, analysis, and final writing.
+  * Update portfolio for the job search.
+
+### 5.2 Instructor Advice (Advisory)
 * **Instructor Comments `[Instructor Comments]`:**
   * Prerequisite Completion: Professors strongly advise new doctoral students to finish all foundational prerequisites (EDCI 51300, 57200, 53100) within their first year. Delaying these courses can hinder progress in core writing and research sequences.
   * Advice #1: Taking 12 credits in the first semester can be too demanding; please adjust it to 8 credits.
 * *(Note: Instructor comments are highly prioritized to guide the student safely, but cannot override the legal compliance rules in Section 3 or the administrative directives in Section 4).*
 
-### 5.2 Peer Advice & Shared Wisdom (Advisory)
+### 5.3 Peer Advice & Shared Wisdom (Advisory)
 * **Peer Advice `[Peer Advice]`:**
   * (Enter advice, course reviews, or scheduling tips from other students and alumni here as a list.)
   * (If there is no peer advice available, you may leave this blank.)
