@@ -12,7 +12,7 @@
 
 ## 2. Curriculum Requirements (LDT PhD Concentration)
 
-### 2.1 Prerequisites [Prerequisites] (Up to 12 credits)
+### 2.1 Prerequisites [Prerequisites] (9 credits)
 * **EDCI 51300:** Intro to Learning Design and Technology.
 * **EDCI 57200:** Learning Systems Design (or equivalent).
 * **EDCI 53100:** Learning Theories and Instructional Design (or equivalent).
