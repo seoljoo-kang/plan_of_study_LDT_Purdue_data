@@ -57,7 +57,7 @@ At least two related graduate-level courses in an outside area (e.g., Computer S
 
 ### 2.7 Dissertation Research [Dissertation] (12-15 credits)
 * Minimum 12 credits of EDCI 69900.
-* 1-6 credits per semester based on workload.
+* 1-8 credits per semester based on workload.
 * Must register for at least 1 credit of 69900 in the semester of deposit.
 
 ## 3. Administrative Directives & Overrides
