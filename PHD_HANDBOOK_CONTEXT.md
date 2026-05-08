@@ -34,7 +34,7 @@
     * **EDCI 67200:** Advanced Instructional Development and Systems Tech (3 cr).
     * **EDCI 67300:** Issues and Methods in Learning Systems Design Research (3 cr). (Prerequisites: EDCI 66000, 67600, 67700).
     * **EDCI 67400:** Advanced Instructional Design Theory (3 cr).
-* **EDCI 69500:** Internship in LDT (3+ cr). Generally in summer.
+* **EDCI 69500:** Internship in LDT (3+ cr; typically 3 credits). Generally in summer.
 
 ### 2.4 LDT Electives [LDT Electives] (12-15 credits)
 Construct a cohesive program. Special topics (EDCI 627/591) count here.
